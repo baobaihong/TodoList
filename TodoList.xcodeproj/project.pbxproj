@@ -15,6 +15,7 @@
 		96155ED82B73D2BC00681441 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155ED72B73D2BC00681441 /* ListViewModel.swift */; };
 		96155EDA2B73D6E700681441 /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155ED92B73D6E700681441 /* ListRowView.swift */; };
 		96155EDC2B73D79200681441 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155EDB2B73D79200681441 /* AddView.swift */; };
+		96155EDE2B76317C00681441 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96155EDD2B76317C00681441 /* NoItemsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		96155ED72B73D2BC00681441 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 		96155ED92B73D6E700681441 /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
 		96155EDB2B73D79200681441 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		96155EDD2B76317C00681441 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				96155ED32B73CDDE00681441 /* ListView.swift */,
 				96155ED92B73D6E700681441 /* ListRowView.swift */,
 				96155EDB2B73D79200681441 /* AddView.swift */,
+				96155EDD2B76317C00681441 /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				96155EDC2B73D79200681441 /* AddView.swift in Sources */,
 				96155EDA2B73D6E700681441 /* ListRowView.swift in Sources */,
 				96155ED82B73D2BC00681441 /* ListViewModel.swift in Sources */,
+				96155EDE2B76317C00681441 /* NoItemsView.swift in Sources */,
 				96155ED42B73CDDE00681441 /* ListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
